@@ -6,7 +6,7 @@ Fixes the ValueError by implementing a more robust regex for price parsing.
 """
 
 from __future__ import annotations
-import re
+import re 
 import json
 import argparse
 import requests
